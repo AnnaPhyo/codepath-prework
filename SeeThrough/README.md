@@ -2,7 +2,7 @@
 
 Submitted by: **Aye Chan Myat Phyo**
 
-**SeeThrough** is an app that... [TODO] 
+**RateMyHotel** is an app that provides reliable insights into different hotel facilities and services and compares their expenses to get the best customer experience.
 
 Time spent: **5** hours spent in total
 
