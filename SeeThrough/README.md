@@ -63,7 +63,7 @@ I was a little confused about the instructions since I was not familiar with Git
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Aye Chan Myat Phyo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
