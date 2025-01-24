@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         }
         
         let randomColor = changeColor()
-        sender.backgroundColor = randomColor
+            view.backgroundColor = randomColor
     }
 }
 
